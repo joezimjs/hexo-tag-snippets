@@ -1,0 +1,27 @@
+{
+  "name": "hexo-tag-snippets",
+  "version": "1.0.0",
+  "description": "Hexo Custom Tag that allows you to pull in reusable HTML snippets from a data file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joezimjs/hexo-tags-reusable-data.git"
+  },
+  "keywords": [
+    "hexo",
+    "tags",
+    "plugin",
+    "data",
+    "html",
+    "reusable"
+  ],
+  "author": "Joseph Zimmerman <contact@joezimjs.com> (http://www.joezimjs.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joezimjs/hexo-tags-reusable-data/issues"
+  },
+  "homepage": "https://github.com/joezimjs/hexo-tags-reusable-data#readme"
+}

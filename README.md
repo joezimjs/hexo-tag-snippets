@@ -1,1 +1,1 @@
-# hexo-tags-reusable-data
+# hexo-tag-snippets
